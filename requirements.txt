@@ -1,0 +1,6 @@
+kivy
+kivymd
+SpeechRecognition
+pyaudio
+buildozer
+pydub
