@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = My Application
+title = AI Notes
 
 # (str) Package name
 package.name = myapp
@@ -10,7 +10,7 @@ package.name = myapp
 package.domain = org.test
 
 # (str) Source code where the main.py live
-source.dir = .
+source.dir = main.py
 
 # (list) Source files to include (let empty to include all the files)
 source.include_exts = py,png,jpg,kv,atlas
